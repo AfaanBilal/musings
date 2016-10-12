@@ -1,7 +1,7 @@
-# musings
+# [musings](https://musings.ml)
 
 ## About
-*musings* is a place for me to think and reflect. 
+***musings*** is a place for me to think and reflect. 
 
 
 ## Author
@@ -10,4 +10,4 @@
 Web: [afaan.ml](https://afaan.ml)
 
 ## License
-*musings* is released under [MIT License](license.md).
+***musings*** is released under [MIT License](license.md).
