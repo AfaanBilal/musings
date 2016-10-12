@@ -13,3 +13,26 @@ a.footer-link:hover {
 a.footer-title {
 	font-size: 1.4em;
 }
+
+$secondary-color: #ded;
+$spacing-unit: 2;
+
+.share-page {
+	font-size: 1.2em;
+    text-align: center;
+    background: $secondary-color;
+    color: #999;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        font-weight: 700;
+        color: $main-color;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}

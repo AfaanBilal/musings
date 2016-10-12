@@ -7,6 +7,8 @@ author:
   email: "me@afaan.ml"
   url: "https://afaan.ml"
 
+twitter_username: afaanbilal
+
 # Build settings
 baseurl: /
 markdown: kramdown
