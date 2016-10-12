@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About | musings
+title: about musings
 ---
 ## About
 ***musings*** is a place where I come to think and reflect.  
