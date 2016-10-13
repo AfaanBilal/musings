@@ -17,4 +17,10 @@
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
 
+	<!-- Facebook share -->
+	<meta property="og:image" content="https://musings.ml/img/favicon.png" />
+	<meta property="og:description" content="{{ content | strip_html | truncatewords:20 }}" />
+	<meta property="og:url" content="https://musings.ml{{ page.url }}" />
+	<meta property="og:title" content="{%if page.title %}{{ page.title | append: " | musings" }}{% else %}{{ site.title }}{% endif %}" />
+
 </head>
