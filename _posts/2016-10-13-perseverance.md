@@ -1,6 +1,6 @@
 ---
 layout: post
-title: perseverance
+title: Perseverance
 ---
 It is so often that we find ourselves amidst a situation where we see no path ahead. No light at the end of a dark and gloomy tunnel. No silver linings around the ominous black clouds. It is in those times that our true strength and resolve is tested. 
 
