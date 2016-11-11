@@ -7,4 +7,6 @@ In the simplest of terms, we may say that experience is nothing but the knowledg
 
 > A mistake repeated more than once is a decision.
 
+That is to say, an action can be said of as a mistake if and only if the actor has no specific knowledge of the consequences, nor has any forethought about them. And so, when the mistake is once done, we become aware of the consequences and then every subsequent repetition becomes a *decision*.
+
 
