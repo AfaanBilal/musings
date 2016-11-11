@@ -1,5 +1,7 @@
 ---
 published: false
+layout: post
+title: Actions and Consequences
 ---
 It is said that as we go through our lives, we acquire something called as *experience*. 
 
