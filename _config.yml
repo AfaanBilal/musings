@@ -1,11 +1,11 @@
 # Site settings
 title: musings | thoughts and reflections
 description: "A place to think and reflect."
-url: "https://musings.ml"
+url: "https://afaanbilal.github.io/musings"
 author:
   name: "Afaan Bilal"
   email: "me@afaan.ml"
-  url: "https://afaan.ml"
+  url: "https://afaanbilal.github.io"
 
 twitter_username: afaanbilal
 
