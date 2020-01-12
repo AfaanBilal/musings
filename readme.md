@@ -7,7 +7,7 @@
 ## Author
 
 ### Afaan Bilal
-Web: [afaan.ml](https://afaan.ml)
+Web: [afaan.me](https://afaan.me)
 
 ## License
 ***musings*** is released under [MIT License](license.md).
