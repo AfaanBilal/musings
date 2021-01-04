@@ -1,4 +1,4 @@
-# [musings](https://musings.ml)
+# [musings](https://afaan.me)
 
 ## About
 ***musings*** is a place for me to think and reflect. 
